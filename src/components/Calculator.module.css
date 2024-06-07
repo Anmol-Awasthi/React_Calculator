@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+ .calculator {
+    width: 100%;
+    background-color: cyan;
+  }
+}
