@@ -22,7 +22,7 @@ const calculator = () => {
 
     return (
     <>
-      <div className="calculator border-2 border-gray-300 rounded-lg max-w-[350px] h-[calc(100vh)]  m-auto md:bg-[#243441] h-100vh " >
+      <div className="calculator border-2 border-gray-300 rounded-lg max-w-[350px] h-[calc(100vh)]  m-auto bg-[#243441] h-100vh md:w-full" >
         
         <Display displayValue={calVal} />
 
